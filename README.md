@@ -28,3 +28,7 @@
 │   ├── api.php         # PHP 資料處理接口
 │   └── database.db     # SQLite 本地資料庫檔案
 └── README.md           # 專案技術說明
+```
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/78c5a24a-891d-43f8-8a2c-f9db20590d9d" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8b4347ee-6829-4772-b273-ec0b0d23324c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bb6a8c58-8ee2-4300-9322-cce7bf2be273" />
